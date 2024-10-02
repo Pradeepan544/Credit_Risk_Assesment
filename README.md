@@ -29,6 +29,6 @@ The trained model is saved as credit_risk_model.pkl, allowing for easy loading a
 ### 📝 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-### 🙌 Acknowledgments
+### 🙌 Acknowledgements
 * Kaggle for providing the dataset.
 * XGBoost for the powerful machine learning library.
