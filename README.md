@@ -25,3 +25,10 @@ Hyperparameters have been fine-tuned to maximize model accuracy.
 
 ### 📦 Pickled Model
 The trained model is saved as credit_risk_model.pkl, allowing for easy loading and prediction in future applications.
+
+### 📝 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### 🙌 Acknowledgments
+* Kaggle for providing the dataset.
+* XGBoost for the powerful machine learning library.
